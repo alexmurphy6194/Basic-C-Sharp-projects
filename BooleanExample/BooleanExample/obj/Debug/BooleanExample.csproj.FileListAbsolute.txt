@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\bin\Debug\BooleanExample.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\bin\Debug\BooleanExample.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\bin\Debug\BooleanExample.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\obj\Debug\BooleanExample.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\obj\Debug\BooleanExample.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\obj\Debug\BooleanExample.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\BooleanExample\BooleanExample\obj\Debug\BooleanExample.pdb
