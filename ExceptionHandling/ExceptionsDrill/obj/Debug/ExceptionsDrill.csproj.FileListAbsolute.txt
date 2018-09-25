@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\obj\Debug\ExceptionsDrill.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\bin\Debug\ExceptionsDrill.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\bin\Debug\ExceptionsDrill.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\bin\Debug\ExceptionsDrill.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\obj\Debug\ExceptionsDrill.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\obj\Debug\ExceptionsDrill.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ExceptionHandling\ExceptionsDrill\obj\Debug\ExceptionsDrill.pdb
