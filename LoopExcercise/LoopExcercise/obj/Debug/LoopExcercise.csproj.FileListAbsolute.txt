@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\bin\Debug\LoopExcercise.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\bin\Debug\LoopExcercise.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\bin\Debug\LoopExcercise.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\obj\Debug\LoopExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\obj\Debug\LoopExcercise.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\obj\Debug\LoopExcercise.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\LoopExcercise\LoopExcercise\obj\Debug\LoopExcercise.csprojAssemblyReference.cache
