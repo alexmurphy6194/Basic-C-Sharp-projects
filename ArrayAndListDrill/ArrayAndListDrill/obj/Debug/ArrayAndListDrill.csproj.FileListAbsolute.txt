@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\bin\Debug\ArrayAndListDrill.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\bin\Debug\ArrayAndListDrill.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\bin\Debug\ArrayAndListDrill.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.pdb
