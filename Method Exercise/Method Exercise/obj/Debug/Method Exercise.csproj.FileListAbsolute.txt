@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\bin\Debug\Method Exercise.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\bin\Debug\Method Exercise.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\bin\Debug\Method Exercise.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\obj\Debug\Method Exercise.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\obj\Debug\Method Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\obj\Debug\Method Exercise.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\Method Exercise\Method Exercise\obj\Debug\Method Exercise.pdb
