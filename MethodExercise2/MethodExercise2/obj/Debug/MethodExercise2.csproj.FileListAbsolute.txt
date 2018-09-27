@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\bin\Debug\MethodExercise2.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\bin\Debug\MethodExercise2.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\bin\Debug\MethodExercise2.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\obj\Debug\MethodExercise2.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\obj\Debug\MethodExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\obj\Debug\MethodExercise2.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\MethodExercise2\MethodExercise2\obj\Debug\MethodExercise2.pdb
