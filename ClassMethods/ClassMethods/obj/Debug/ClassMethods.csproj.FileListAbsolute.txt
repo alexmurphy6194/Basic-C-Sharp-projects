@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb
