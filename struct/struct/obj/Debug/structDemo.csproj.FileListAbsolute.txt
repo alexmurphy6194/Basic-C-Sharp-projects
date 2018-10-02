@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\bin\Debug\@struct.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\bin\Debug\@struct.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\bin\Debug\@struct.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\obj\Debug\structDemo.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\obj\Debug\structDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\obj\Debug\@struct.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\struct\struct\obj\Debug\@struct.pdb
