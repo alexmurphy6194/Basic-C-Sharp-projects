@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\bin\Debug\DateTime drill.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\bin\Debug\DateTime drill.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\bin\Debug\DateTime drill.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\obj\Debug\DateTime drill.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\obj\Debug\DateTime drill.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\obj\Debug\DateTime drill.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\DateTime drill\DateTime drill\obj\Debug\DateTime drill.pdb
