@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\bin\Debug\basicLog.exe.config
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\bin\Debug\basicLog.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\bin\Debug\basicLog.pdb
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\obj\Debug\basicLog.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\obj\Debug\basicLog.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\obj\Debug\basicLog.exe
+C:\Users\Alex\Desktop\Workspace\Visual Studio\basicLog\basicLog\obj\Debug\basicLog.pdb
