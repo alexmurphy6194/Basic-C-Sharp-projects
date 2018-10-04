@@ -48,6 +48,15 @@ namespace Inheritance
             {
                 Console.WriteLine(firstName);
             }
+
+            List<Employee<int>> joesListLambda = new List<Employee<int>>();
+            joesListLambda = employees.Where(x=>x.FirstName == "Joe").ToList();
+            foreach (Employee<int> employee in joesListLambda)
+            {
+                Console.Write(employee.FirstName);
+                Console.Write(employee.LastName);
+            }
+
             List<Employee<int>> firstNamesLambda = new List<Employee<int>>();
             firstNamesLambda = employees.FindAll(x => x.Id > 5);
 
@@ -55,11 +64,7 @@ namespace Inheritance
             {
                 Console.WriteLine(employee.FirstName);
             }
-            //bool same = Employee1 == Employee2;
-            //Employee1.SayName();
-            //Console.WriteLine("And");
-            //Employee2.SayName();
-            //Console.WriteLine("Are the same employee?.....Looking at their ID's, this is " + same);
+            
 
             Console.Read();
         }

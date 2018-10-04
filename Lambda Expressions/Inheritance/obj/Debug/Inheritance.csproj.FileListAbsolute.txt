@@ -5,3 +5,10 @@ C:\Users\Alex\Desktop\Workspace\Visual Studio\Inheritance\Inheritance\obj\Debug\
 C:\Users\Alex\Desktop\Workspace\Visual Studio\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Desktop\Workspace\Visual Studio\Inheritance\Inheritance\obj\Debug\Inheritance.exe
 C:\Users\Alex\Desktop\Workspace\Visual Studio\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Alex\Documents\GitHub\Basic-C-Sharp-projects\Lambda Expressions\Inheritance\obj\Debug\Inheritance.pdb
