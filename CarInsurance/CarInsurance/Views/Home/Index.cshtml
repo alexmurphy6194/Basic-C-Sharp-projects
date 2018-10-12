@@ -1,0 +1,65 @@
+﻿<div class="card col-sm-12 col-md-10 col-lg-6 mx-auto pt-0 shadow">
+    <div class="form m-3">
+        <div class="card-header text-center">
+            <h5 class="m-0">Enter your information for a free Quote today!</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("CustomerInfo", "Home", FormMethod.Post))
+            {
+                <div class="row">
+                    <div class="form-group col">
+                        <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col">
+                        <h6 for="EmailForm">Email Address</h6>
+                        <input name="EmailAddress" type="email" id="EmailForm"class="form-control" placeholder="example@example" />
+                    </div>
+                    <div class="form-group col">
+                        <h6 for="DOB">Date of birth</h6>
+                        <input name="DateOfBirth" type="date" id="DOB "class="form-control"/>
+                    </div>
+                </div>
+
+                
+                <div class="row">
+                    <div class="form-group col">
+                        <h6>Car Information</h6>
+                        <input name="CarYear" type="number" class="form-control" placeholder="Car Year" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col">
+                        <input name="CarMake" type="text" class="form-control" placeholder="Car Make" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col">
+                        <input name="CarModel" type="text" class="form-control" placeholder="Car Model" />
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <h6>Have you ever had a Dui?</h6>
+                    <label class="mx-2">@Html.RadioButton("HaveDui", true, true)Yes</label>
+                    <label>@Html.RadioButton("HaveDui", false) No</label>
+                    <div class="form-group">
+                        <label for="speed">How many speeding tickets have you gotten?</label>
+                        <input name="SpeedingTickets" id="speed"type="number" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <h6> Would you like Full Coverage or Liability?</h6>
+                        <label class="mx-2">@Html.RadioButton("FullCoverage", true, true)Full Coverage</label>
+                        <label>@Html.RadioButton("FullCoverage", false)Liability</label>
+                    </div>
+                    <button type="submit" class="btn btn-block btn-primary">Submit</button>
+                </div>
+            
+             }
+        </div>
+    </div>
+</div>
